@@ -75,3 +75,14 @@
           
 四、运行截图
 ##
+
+![Image text](https://github.com/augusttail/Finaly/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208230228.png)  
+![Image text](https://github.com/augusttail/Finaly/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208230247.png)  
+![Image text](https://github.com/augusttail/Finaly/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208230307.png)  
+![Image text](https://github.com/augusttail/Finaly/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191208230329.png)  
+
+五、说明
+##
+学生选课系统，可以进行账号注册，并将账号信息存在txt中，利用注册的账号进行登录选课，登录验证等，选课信息同样存在txt中，可以进行修改。更新txt即可。
+六、编程感想
+这次编程花费时间比较久，特别是信息的存储，还有就是信息的时候，比如你注册的时候，写入的姓名，学号，密码，三个信息，存的时候吧他全部存进去，然后取的时候，要取姓名和密码，不知道怎么实现，取的时候只能一通取出来，还有就是io流存放信息，容易出现乱码，在编写的时候要注意统一。
